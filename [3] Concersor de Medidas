@@ -1,0 +1,7 @@
+print("======================================================X BEM VINDO AO CONVERSOR DO GUSTAVO X===================================================================")
+print("                                                                   Tipos De Medida \n                                                                     [KM M CM MM]")
+
+Medida = input("Qual tipo de medida?")
+Valor = int(input("Valor deseja calcular: "))
+if Medida == "KM": print(f"  M: {str(Valor/1000)}\n CM: {Valor/100000}\n MM: {Valor/1e+6
+}")
