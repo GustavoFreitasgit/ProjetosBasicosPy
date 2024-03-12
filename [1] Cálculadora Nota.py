@@ -1,4 +1,4 @@
-print("======================================================X BEM VINDO A CALCULADORA DO GUSTAVO X======================================================================")
+print("======================================================X CALCULADORA X======================================================================")
 Nota = int(input("Primeira nota: "))
 Nota2 = int(input("Segunda Nota: "))
 Nota3 = int(input("Terceira nota Nota: "))
